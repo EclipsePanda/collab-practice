@@ -2,3 +2,30 @@
     margin: 0;
     padding: 0;
 }
+body {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+#nav-bar {
+    height: 50px;
+    background-color: aquamarine;
+}
+section {
+    height: 500px;
+    line-height: 500px;
+}
+p {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+.blue-col {
+    background-color:cornflowerblue;
+}
+.red-col {
+    background-color: red;
+}
+footer {
+    background-color: goldenrod;
+}
